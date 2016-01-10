@@ -1,0 +1,1 @@
+result = Dialog.Message("Help", "Really?", MB_YESNO, MB_ICONINFORMATION, MB_DEFBUTTON1);

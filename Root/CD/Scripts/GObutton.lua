@@ -1,0 +1,1 @@
+Web.LoadURL("Web1", Input.GetText("Input1"));

@@ -1,0 +1,1 @@
+Web.LoadURL("Web1", "http://google.com");

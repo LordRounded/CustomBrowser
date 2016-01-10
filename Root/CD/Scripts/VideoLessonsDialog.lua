@@ -1,0 +1,1 @@
+result = Dialog.Message("Notice", "You are stupid", MB_RETRYCANCEL, MB_ICONINFORMATION, MB_DEFBUTTON1);
